@@ -1,0 +1,21 @@
+# General ignores
+.DS_Store
+build
+out
+
+# IntelliJ ignores
+*.iml
+/*.ipr
+
+/.idea/artifacts
+/.idea/libraries
+/.idea/modules
+/.idea/*.iml
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+
+# Gradle ignores
+.gradle
